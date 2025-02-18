@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://404mike.github.io/Mike-NLW/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in 404mike/Mike-NLW project"
+        ]
+    },
+    "items": []
+}
