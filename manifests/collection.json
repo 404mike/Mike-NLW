@@ -1,0 +1,13 @@
+{
+  "id" : "https://404mike.github.io/Mike-NLW/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in 404mike/Mike-NLW project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://404mike.github.io/Mike-NLW/manifests/manifest.json",
+    "label" : "Test Manifest"
+  } ]
+}
