@@ -5,7 +5,7 @@
   "label" : "Test Manifest",
   "metadata" : [ ],
   "description" : [ {
-    "@value" : "[Click to edit description]",
+    "@value" : "Test Description",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
